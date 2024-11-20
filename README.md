@@ -1,7 +1,9 @@
 # Noor_Alifa_Nabila-2210010196-UTS
 
 Nama : Noor Alifa Nabila
+
 NPM : 2210010196
+
 Kelas : 5A Reg Banjarbaru
 
 Hasil jalan aplikasi
